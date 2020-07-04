@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{1B2E4A89-3990-B40F-0BD9-D12FCE2C044E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Unwinding.cs">
+    <Files>
+      <File FileName="Assets/Script/rotation.cs" Line="24" Column="28" />
+      <File FileName="Assets/Script/Unwinding.cs" Line="24" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AB15D135-1F18-BB89-9126-E1A4C4EF01B1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/cone.cs">
+    <Files>
+      <File FileName="Assets/cone.cs" Line="207" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
